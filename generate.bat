@@ -1,0 +1,1 @@
+antlr4 -Dlanguage=Python3 ./caculator.g4 -no-listener -visitor -o python
